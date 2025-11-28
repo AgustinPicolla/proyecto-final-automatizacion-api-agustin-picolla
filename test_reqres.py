@@ -5,7 +5,6 @@ from faker import Faker
 import pathlib
 
 
-
 # Configuración
 BASE_URL = "https://jsonplaceholder.typicode.com"
 fake= Faker()
